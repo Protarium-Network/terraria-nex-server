@@ -1,0 +1,5 @@
+.env
+terraria-nex-server
+*.exe
+build/
+log/
